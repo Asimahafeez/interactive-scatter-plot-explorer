@@ -1,0 +1,5 @@
+geneA,geneB,condition,expression
+10,15,Control,5
+12,18,Treated,7
+8,14,Control,6
+15,20,Treated,8
